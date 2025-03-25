@@ -20,5 +20,3 @@ Frontend: HTML, CSS, JavaScript, React etc
 Database: SQL
 
 
-
-
