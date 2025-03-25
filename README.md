@@ -18,3 +18,5 @@ Gain insights into student performance, attendance, and engagement with visual r
 Backend: PHP with Lavavel.
 Frontend: HTML, CSS, JavaScript, React etc
 Database: SQL
+
+
